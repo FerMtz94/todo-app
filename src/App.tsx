@@ -1,4 +1,3 @@
-// src/App.tsx
 import { ThemeProvider } from "./contexts/ThemeContext";
 import { useTheme } from "./contexts/ThemeContext";
 import { ThemeToggle } from "./components/ThemeToggle";
